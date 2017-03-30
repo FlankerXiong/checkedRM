@@ -7,7 +7,9 @@
 ## Install
 
 > make 
+
 > make install
+
 ------
 ## Uage
 
